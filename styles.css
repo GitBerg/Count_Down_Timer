@@ -13,6 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
+    overflow: hidden;
 }
 
 img{
@@ -52,7 +53,6 @@ p{
     box-shadow: 0 25px 45px rgba(0, 0, 0, 0.4);
     border: 1px solid rgba(255,255,255,0.5);
     backdrop-filter: blur(2px);
-    box-shadow: 1px 1px 1px 1px rgba(0 0 0 0.2);
 }
 
 .timer {
